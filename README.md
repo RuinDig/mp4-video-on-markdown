@@ -7,7 +7,9 @@ MP4形式の動画ファイルをアップロードする方法
 <li>ファイルサイズの上限は<b>10MB</b>まで。</li>
 <li>ReadmeなどのMarkdownの編集画面上の"Attach files by dragging & dropping, selecting or pasting them."をクリックして任意のmp4形式の動画ファイルを選ぶ。</li>
 <li>Markdownの編集画面で
+  
   ```<div><video controls src="<!---動画のURL--->" muted="false"></video></div>```
+  
   を入力する。</li>
 <li>"Commit changes"のクリックする。</li>
 </ol>
@@ -19,7 +21,9 @@ How to upload mp4 video file
 <li>File size is up to <b>10megabites</b>.</li>
 <li>Open Markdown edit window, then select "Attach files by dragging & dropping, selecting or pasting them." on bottom of edit window select any mp4 video file.</li>
 <li>Put in 
+  
   ```<div><video controls src="<!---video URL--->" muted="false"></video></div>```
+  
   on Markdown edit window.</li>
 <li>Select "Commit changes" button.</li>
 </ol>

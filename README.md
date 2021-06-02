@@ -1,5 +1,5 @@
 # mp4-video-on-markdown
-GitHubのReadmeなどのMarkdownでmp4形式の動画を埋め込む方法｜How to embed mp4 video file on GitHub Markdown
+GitHubのReadmeなどのMarkdownでmp4形式の動画を埋め込む方法｜How to embed mp4 video file on GitHub Markdown like as Readme
 
 # Japanese
 MP4形式の動画ファイルをアップロードする方法

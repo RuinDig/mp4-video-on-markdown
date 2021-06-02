@@ -11,7 +11,7 @@ MP4形式の動画ファイルをアップロードする方法
   ```<div><video controls src="<!---動画のURL--->" muted="false"></video></div>```
   
   を入力する。</li>
-<li>"Commit changes"のクリックする。</li>
+<li>"Commit changes"のをクリックして変更を反映する。</li>
 </ol>
 <div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
 
@@ -25,6 +25,6 @@ How to upload mp4 video file
   ```<div><video controls src="<!---video URL--->" muted="false"></video></div>```
   
   on Markdown edit window.</li>
-<li>Select "Commit changes" button.</li>
+<li>Select "Commit changes" button to reflect changes.</li>
 </ol>
 <div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>

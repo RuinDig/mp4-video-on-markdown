@@ -18,7 +18,7 @@ MP4形式の動画ファイルをアップロードする方法
 # EN
 How to upload mp4 video file
 <ol>
-<li>File size is up to <b>10megabites</b>.</li>
+<li>File size is up to <b>10 Megabytes</b>.</li>
 <li>Open Markdown edit window, then select "Attach files by dragging & dropping, selecting or pasting them." on bottom of edit window select any mp4 video file.</li>
 <li>Put in 
   

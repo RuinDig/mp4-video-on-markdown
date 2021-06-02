@@ -1,7 +1,7 @@
 # mp4-video-on-markdown
 GitHubのReadmeなどのMarkdownでmp4形式の動画を埋め込む方法｜How to embed mp4 video file on GitHub Markdown
 
-# JP
+# Japanese
 MP4形式の動画ファイルをアップロードする方法
 <ol>
 <li>ファイルサイズの上限は<b>10MB</b>まで。</li>
@@ -15,7 +15,7 @@ MP4形式の動画ファイルをアップロードする方法
 </ol>
 <div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
 
-# EN
+# English
 How to upload mp4 video file
 <ol>
 <li>File size is up to <b>10 Megabytes</b>.</li>

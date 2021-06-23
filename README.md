@@ -29,4 +29,4 @@ How to upload and embed mp4 video file
 </ol>
 <div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
 
-https://user-images.githubusercontent.com/20723919/123130864-1b160200-d488-11eb-8d8c-a32bc44dac6e.mp4
+<div><video controls src="https://user-images.githubusercontent.com/20723919/123130864-1b160200-d488-11eb-8d8c-a32bc44dac6e.mp4" muted="false"></video></div>
